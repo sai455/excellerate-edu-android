@@ -1,0 +1,16 @@
+{
+	"appId": "io.sims.excelsispro360",
+	"appName": "ExcelSIS360",
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 2000,
+			"backgroundColor": "#ffffff",
+			"showSpinner": false,
+			"androidSpinnerStyle": "small",
+			"iosSpinnerStyle": "small",
+			"splashFullScreen": true,
+			"splashImmersive": true
+		}
+	}
+}

@@ -1,0 +1,2 @@
+int xml documentviewer_file_paths 0x0
+int xml opener_paths 0x0
